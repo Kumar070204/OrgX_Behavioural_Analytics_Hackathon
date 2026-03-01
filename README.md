@@ -112,6 +112,4 @@ npm run preview
 
 ---
 
-<div align="center">
-  <i>Built with ❤️ for the OrgX Behavioural Analytics Hackathon</i>
-</div>
+
